@@ -1,4 +1,4 @@
-### Hi there 👋 Avinash here 👩‍💻
+### Hi there 👋
 
 <!-- </p> <br>
 

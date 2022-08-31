@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashdhakne&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdhakne" /> </p>
+
 <!-- </p> <br>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=avinashdhakne" width="58%" height="100%">  

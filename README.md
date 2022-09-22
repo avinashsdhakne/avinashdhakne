@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashdhakne&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdhakne" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsdhakne&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsdhakne" /> </p>
 
 <!-- </p> <br>
 
